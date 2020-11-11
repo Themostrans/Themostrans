@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My pronouns are he/him, so please use those.
+### Fun fact, Ive been coding since I was 9
 
 <!--
 **Themostrans/Themostrans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
